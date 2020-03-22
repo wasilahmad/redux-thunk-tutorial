@@ -25,6 +25,12 @@ export const isLoading = () => {
     }
 }
 
+export const asyncAgeDown = (val) => {
+    return {
+        type: 'AGE_DOWN',
+        val: val
+    }
+}
 
 export const ageDown = val => {
     return dispach => {
@@ -32,13 +38,5 @@ export const ageDown = val => {
         setTimeout(() => {
             dispach(asyncAgeDown(val));
         }, 2000);
-    }
-}
-
-
-export const asyncAgeDown = (val) => {
-    return {
-        type: 'AGE_DOWN',
-        val: val
     }
 }
