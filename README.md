@@ -11,11 +11,11 @@
 
 ## Available Scripts
 
-# Install dependencies
+### Install dependencies
 npm install
 
-# Start the project
+### Start the project
 npm run start
 
-# Navigate to http://localhost:3000
+### Navigate to http://localhost:3000
 
