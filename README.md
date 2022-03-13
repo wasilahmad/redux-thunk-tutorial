@@ -1,5 +1,5 @@
 
-[Tutorial Demo:](https://redux-thunk-tutorial.herokuapp.com/).
+[Tutorial Demo: https://redux-thunk-tutorial.herokuapp.com/](https://redux-thunk-tutorial.herokuapp.com/).
 
 # Getting Started with Create React App
 
