@@ -6,7 +6,8 @@
 
 ## What You'll Learn
 -   React-redux
--   Middleware
+-   Middleware 
+-   redux-thunk
 
 
 ## Available Scripts
